@@ -1,1 +1,2 @@
 Diese ist eine zweite Datei
+And I add a second line
