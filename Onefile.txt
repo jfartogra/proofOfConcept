@@ -1,2 +1,3 @@
 Diese ist eine erste Datei
-My conflict
+Ich wollte gerne ein Konflikt
+
